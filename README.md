@@ -1,6 +1,8 @@
 # Drumkit
 The Drum Kit Web Application is a fun and interactive web project that allows users to play various drum sounds by clicking buttons or pressing corresponding keys on their keyboards. The application provides a virtual drum set with buttons representing different drum sounds, and users can trigger these sounds either by clicking on the buttons or by pressing the corresponding keys on their keyboards.
 
+## Live Demo - https://rohitroy1711.github.io/Drumkit/
+
 Key Features:
 
 Interactive Drum Set: Users can interact with a virtual drum set displayed on the web page. Each drum sound is represented by a button with a corresponding letter displayed on it.
